@@ -1,1 +1,6 @@
+print("Hello" + "Angela")
+# This will print HelloAngela
+# To concatenate all you need to do is add 2 or more "<characters here>" separated by the + symbol.
 
+print("Hello" + " " + "Angela")
+# I added a space between the words so that it will now print Hello Angela.
