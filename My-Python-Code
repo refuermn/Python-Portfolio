@@ -4,3 +4,10 @@ print("Hello" + "Angela")
 
 print("Hello" + " " + "Angela")
 # I added a space between the words so that it will now print Hello Angela.
+
+# In this example I am including an input command in my code.
+# I also include a print function to say the word Hello.
+print("Hello " + input("What is your name?"))
+
+# Person types in their name
+# When executed this will say Hello <typed in name> since the user must type in characters.
